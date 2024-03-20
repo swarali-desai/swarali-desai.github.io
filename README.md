@@ -8,10 +8,10 @@
 
 ## Work Experience
 **Data Scientist @ Cummins (_December 2020 – August 2023_)**
-●	Led and innovated as a Technical Product Owner in developing a predictive engine failure tool that reduced engine diagnostic time by about 7 hours by diagnosing top causes of failure and recommending solutions.
-●	Created a CNN-based algorithm and a GUI in Python for detecting cracks in X-ray images of fuel cell electrodes achieving 85% accuracy, saving manual inspection time, and reducing production costs by approximately 10%.
-●	Developed a 93% accurate employee churn prediction model, cutting recruitment and training expenses by around $200K and helping the organization understand the areas for improvements to retain employees.
-●	Designed customizable Databricks dashboards, improving decision-making and boosting customer retention by 8%.
+- Led and innovated as a Technical Product Owner in developing a predictive engine failure tool that reduced engine diagnostic time by about 7 hours by diagnosing top causes of failure and recommending solutions.
+- Created a CNN-based algorithm and a GUI in Python for detecting cracks in X-ray images of fuel cell electrodes achieving 85% accuracy, saving manual inspection time, and reducing production costs by approximately 10%.
+- Developed a 93% accurate employee churn prediction model, cutting recruitment and training expenses by around $200K and helping the organization understand the areas for improvements to retain employees.
+- Designed customizable Databricks dashboards, improving decision-making and boosting customer retention by 8%.
 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
